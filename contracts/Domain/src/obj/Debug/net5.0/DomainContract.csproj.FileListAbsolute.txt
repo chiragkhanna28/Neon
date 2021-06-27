@@ -1,0 +1,12 @@
+C:\Projects\blockchain\contracts\Domain\src\bin\Debug\net5.0\DomainContract.deps.json
+C:\Projects\blockchain\contracts\Domain\src\bin\Debug\net5.0\DomainContract.dll
+C:\Projects\blockchain\contracts\Domain\src\bin\Debug\net5.0\ref\DomainContract.dll
+C:\Projects\blockchain\contracts\Domain\src\bin\Debug\net5.0\DomainContract.pdb
+C:\Projects\blockchain\contracts\Domain\src\obj\Debug\net5.0\DomainContract.csproj.AssemblyReference.cache
+C:\Projects\blockchain\contracts\Domain\src\obj\Debug\net5.0\DomainContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\blockchain\contracts\Domain\src\obj\Debug\net5.0\DomainContract.AssemblyInfoInputs.cache
+C:\Projects\blockchain\contracts\Domain\src\obj\Debug\net5.0\DomainContract.AssemblyInfo.cs
+C:\Projects\blockchain\contracts\Domain\src\obj\Debug\net5.0\DomainContract.csproj.CoreCompileInputs.cache
+C:\Projects\blockchain\contracts\Domain\src\obj\Debug\net5.0\DomainContract.dll
+C:\Projects\blockchain\contracts\Domain\src\obj\Debug\net5.0\ref\DomainContract.dll
+C:\Projects\blockchain\contracts\Domain\src\obj\Debug\net5.0\DomainContract.pdb
