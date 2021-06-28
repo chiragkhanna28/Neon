@@ -1,0 +1,12 @@
+C:\Projects\NeoContract\contracts\SaveGet\src\bin\Debug\net5.0\SaveGetContract.deps.json
+C:\Projects\NeoContract\contracts\SaveGet\src\bin\Debug\net5.0\SaveGetContract.dll
+C:\Projects\NeoContract\contracts\SaveGet\src\bin\Debug\net5.0\ref\SaveGetContract.dll
+C:\Projects\NeoContract\contracts\SaveGet\src\bin\Debug\net5.0\SaveGetContract.pdb
+C:\Projects\NeoContract\contracts\SaveGet\src\obj\Debug\net5.0\SaveGetContract.csproj.AssemblyReference.cache
+C:\Projects\NeoContract\contracts\SaveGet\src\obj\Debug\net5.0\SaveGetContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\NeoContract\contracts\SaveGet\src\obj\Debug\net5.0\SaveGetContract.AssemblyInfoInputs.cache
+C:\Projects\NeoContract\contracts\SaveGet\src\obj\Debug\net5.0\SaveGetContract.AssemblyInfo.cs
+C:\Projects\NeoContract\contracts\SaveGet\src\obj\Debug\net5.0\SaveGetContract.csproj.CoreCompileInputs.cache
+C:\Projects\NeoContract\contracts\SaveGet\src\obj\Debug\net5.0\SaveGetContract.dll
+C:\Projects\NeoContract\contracts\SaveGet\src\obj\Debug\net5.0\ref\SaveGetContract.dll
+C:\Projects\NeoContract\contracts\SaveGet\src\obj\Debug\net5.0\SaveGetContract.pdb
